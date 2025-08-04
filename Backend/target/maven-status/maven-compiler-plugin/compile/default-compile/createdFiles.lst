@@ -1,0 +1,4 @@
+com/example/tipboard/controller/TipController.class
+com/example/tipboard/TipboardApplication.class
+com/example/tipboard/model/Tip.class
+com/example/tipboard/repo/TipRepository.class
